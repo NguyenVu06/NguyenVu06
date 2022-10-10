@@ -6,7 +6,7 @@
 
 [**Selected Side Projects and code dump On Github**](https://github.com/NguyenVu06)
 
-📫<h3 align="left">💬 Find more of my info on</h3>
+<h3 align="left">💬 Find more of my info on</h3>
 <a 
 href="https://www.linkedin.com/in/nguyendvu/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
