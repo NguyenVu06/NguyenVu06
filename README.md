@@ -39,6 +39,8 @@ _______
   <code> <img height="50" src="https://networkx.org/_static/networkx_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code>
   <hr>
   <p align="center">
