@@ -32,12 +32,13 @@ _______
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://networkx.org/_static/networkx_logo.svg"> </code>
+  <code> <img height="50" src="https://github.com/simple-icons/simple-icons/blob/master/icons/h3.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
-  <code> <img height="50" src="https://networkx.org/_static/networkx_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </code>
