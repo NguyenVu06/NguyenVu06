@@ -1,8 +1,7 @@
 # Hello there, I am Nguyen D. Vu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💼 I am currently a **Data Scientist**, formerly 💊 Pharmaceuticals Process Engineer 
-- I ❤️ building **ML/DL models** and  **dashboards**
-- I am passionate about learning🌱 and discussing **ML/DL** techniques
+- I ❤️ building and learning🌱 about**ML/DL models**, **dashboards** and **AI Applications**
 
 [**Selected Side Projects and code dump On Github**](https://github.com/NguyenVu06)
 <!--
